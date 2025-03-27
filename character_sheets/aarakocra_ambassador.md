@@ -18,7 +18,7 @@
 # Character Fundamentals
 
 ## Name
-TBD
+Klaxon
 
 ## Background
 
@@ -49,9 +49,42 @@ TBD
 - **Wisdom**: 15 (14 base + 1 from race) (+2)
 - **Charisma**: 10 (+0)
 
+# Proficiencies
+
 ## Skill Proficiencies
 
 - Wisdom
     - Insight (from Far Travler background)
     - Perception (from Far Travler background)
+- Dexterity
+    - Acrobatics (from Fighter base class)
+- Strength
+    - Athletics (from Fighter base class)
 
+## Equipment Proficiencies
+
+- Armor (from Fighter base class)
+    - all armor
+    - shields
+- Weapons (from Fighter base class)
+    - simple
+    - martial
+
+## Saving Throws
+
+- Strength
+- Consitution
+
+# Equipment
+
+## Class Equipment (Fighter)
+
+ - [ ] chain mail, or [x] leather armor, longbow, and 20 arrows
+ - [ ] martial weapon and a shield or [x] two martial weapons (scimitars)
+ - [ ] light crossbow (+ 20 bolts) or [x] two handaxes
+ - [ ] dungeoneer's pack or [x] an explorer's pack
+
+# Features
+
+ - **Fighting Style**: Two-Weapon Fighting (see [Fighter](../classes/fighter.md))
+ - **Second Wind**

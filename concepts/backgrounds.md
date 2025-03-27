@@ -7,6 +7,8 @@ Backgrounds
 
 # Far Traveler
 
+- [DND 5e Wiki: Far Traveler](https://dnd5e.wikidot.com/background:far-traveler)
+
 You come from a far away place that many may not have even heard of and whose people you may be the only example of in the entire region. Being so different, you garner a lot of attention, for good and ill.
 
 ## Traits
