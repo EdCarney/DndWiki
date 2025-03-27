@@ -79,10 +79,18 @@ Klaxon
 
 ## Class Equipment (Fighter)
 
- - [ ] chain mail, or [x] leather armor, longbow, and 20 arrows
- - [ ] martial weapon and a shield or [x] two martial weapons (scimitars)
- - [ ] light crossbow (+ 20 bolts) or [x] two handaxes
- - [ ] dungeoneer's pack or [x] an explorer's pack
+ - choice of:
+     - [ ] chain mail, or
+     - [x] leather armor, longbow, and 20 arrows
+ - choice of:
+    - [ ] martial weapon and a shield, or
+    - [x] two martial weapons (scimitars)
+ - choice of:
+    - [ ] light crossbow (+ 20 bolts), or
+    - [x] two handaxes
+ - choice of:
+    - [ ] dungeoneer's pack, or
+    - [x] an explorer's pack
 
 # Features
 
