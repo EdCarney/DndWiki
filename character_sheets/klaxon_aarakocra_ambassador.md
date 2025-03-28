@@ -1,19 +1,18 @@
 
 # Story
 
-- grew up in one of the larger aeries of the Aarakocra
-- like many of the Aarakocra, has a strong desire to serve his people
-- a talented warrior, skilled in the tactics of airial warfare
-- suffered a traumatic wing injury during a large battle in defense of his aerie
-- his aerie lost this battle, and a substaintial part of their territory
-- deemed no longer fit for aerial combat due to his wing injury
-- still wanting to serve his people, he starts work in a dilomatic role
-- due to his limited mobility, he is sent to interface with peoples on the surface
-- however, he is a fighter, not a diplomat, so his CHAR is quite low
-- additionally, the corruption in fantasy baltimore does him no favors
-- he is rather niave, thinking that most people want to do what is just and lawful
-- he initially trusts most of those he meets, but he is learning that is not such a good idea in this city
-- a bit arogant; thinks that aarkocra society is superior to others
+- grew up in a large Aarakocra aerie
+- strong sense of nobility; wants to serve his people
+- is pretty decent at the warfare
+- suffers a traumatic injury during a territorial invasion from a rival aerie (let's call them Russia)
+- his aerie lost the battle and is now significantly smaller in size
+- still wanting to serve, but no longer fit for arial combat, he becomes an ambassador
+- goal is to get support from land-based cities to help take back their former territory
+- the first city he is sent to is fantasy baltimore (fbmore)
+- he is bad at diplomacy; much better at killing
+- the corruption in fbmore's politics also doesn't help; this is not common in the Aarakocra cities/aeries
+- he is unfamiliar with human/land-based culture and is generally trusting and gullible; easily swindled
+- like many Aarakocra he is terrified of confinement (e.g. in cages or trapped underground)
 
 # Character Fundamentals
 
