@@ -41,12 +41,58 @@ Klaxon
 > [!NOTE]
 > Standard scores are 15, 14, 13, 12, 10, 8
 
-- **Strength**: 13 (+1)
-- **Dexterity**: 17 (15 base + 2 from race) (+3)
-- **Constitution**: 12 (+1)
-- **Intelligence**: 8 (-1)
-- **Wisdom**: 15 (14 base + 1 from race) (+2)
-- **Charisma**: 10 (+0)
+### Strength
+- Value: 13
+- Modifier: +1
+- Saving Throw: **true**
+- Skills:
+    - Athletics (P): +3
+
+### Dexterity
+- Value: 17 (15 base + 2 from race)
+- Modifier: +3
+- Saving Throw: **true**
+- Skills:
+    - Acrobatics (P): +5
+    - Sleight of Hand: +3
+    - Stealth: +3
+ 
+### Constitution
+- Value: 12
+- Modifier: +1
+- Saving Throw: **true**
+
+### Intelligence
+- Value: 8
+- Modifier: -1
+- Saving Throw: **false**
+- Skills:
+    - Arcana: -1
+    - History: -1
+    - Investigation: -1
+    - Nature: -1
+    - Religion: -1
+
+### Wisdom
+- Value: 15 (14 base + 1 from race)
+- Modifier: +2
+- Saving Throw: **false**
+- Skills:
+    - Animal Handling: +2
+    - Insight: +4
+    - Medicine: +2
+    - Perception: +4
+    - Survival: +2
+
+### Wisdom
+- Value: 10
+- Modifier: +0
+- Saving Throw: **false**
+- Skills:
+    - Deception: +0
+    - Intimidation: +0
+    - Performance: +0
+    - Persuasion: +0
 
 ## Hit Points
 
@@ -65,6 +111,8 @@ Klaxon
 
 
 # Proficiencies
+
+
 
 ## Skill Proficiencies
 
@@ -111,3 +159,5 @@ Klaxon
 
  - **Fighting Style**: Two-Weapon Fighting (see [Fighter](../classes/fighter.md))
  - **Second Wind**
+ 
+ 
