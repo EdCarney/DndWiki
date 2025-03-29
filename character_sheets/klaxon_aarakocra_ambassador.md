@@ -10,8 +10,7 @@ Klaxon
 - his aerie lost the battle and is now significantly smaller in size
 - still wanting to serve, but no longer fit for arial combat, he becomes an ambassador
 - goal is to get support from land-based cities to help take back their former territory
-- the first city he is sent to is fantasy baltimore (fbmore)
-- he is bad at diplomacy; much better at killing
+- the first city he is sent to is fantasy baltimore (fbmore) he is bad at diplomacy; much better at killing
 - the corruption in fbmore's politics also doesn't help; this is not common in the Aarakocra cities/aeries
 - he is unfamiliar with human/land-based culture and is generally trusting and gullible; easily swindled
 - like many Aarakocra he is terrified of confinement (e.g. in cages or trapped underground)
@@ -26,6 +25,16 @@ Klaxon
 
 ## Class
 [Battle Master](../classes/battlemaster.md)
+
+## Alignment
+Neutral Good
+
+## Base Properties
+
+- Initiative: +3 (from DEX)
+- Speed: 25 walking; 25 flight
+- Size: Med.
+- Passive Perception: 14
 
 ## Ability Scores
 
@@ -112,13 +121,31 @@ Klaxon
     - simple
     - martial
 
-# Equipment
+## Languages
+
+- Common
+- Auran
+- Aarakocra
+
+# Inventory
+
+- Armor
+    - Leather Armor
+- Weapons
+    - (see above)
+- Other
+    - explorer's pack
+    - traveler's clothes
+    - dice set
+    - map of poor quality
+- Money
+    - 15 GP
 
 ## Class Equipment (Fighter)
 
  - choice of:
-     - [ ] chain mail, or
-     - [x] leather armor, longbow, and 20 arrows
+    - [ ] chain mail, or
+    - [x] leather armor, longbow, and 20 arrows
  - choice of:
     - [ ] martial weapon and a shield, or
     - [x] two martial weapons (scimitars)
