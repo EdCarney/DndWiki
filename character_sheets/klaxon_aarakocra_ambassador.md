@@ -48,6 +48,22 @@ Klaxon
 - **Wisdom**: 15 (14 base + 1 from race) (+2)
 - **Charisma**: 10 (+0)
 
+## Hit Points
+
+- **Current**: 11
+- **Temp**: 0
+- **Max**: 11
+
+## Weapons
+
+| Name          | Atk Bonus/DC | Damage       | Notes                    |
+| ------------- | ------------ | ------------ | ------------------------ |
+| Scimitar (x2) | +5           | 1d6 slashing | finesse, light           |
+| Long Bow      | +3           | 1d8 piercing | heavy, two-handed        |
+| Handaxe (x2)  | +3           | 1d6 slashing | light, thrown (20/60)    |
+| Talons        | +1           | 1d4 slashing | replaces unarmed strikes |
+
+
 # Proficiencies
 
 ## Skill Proficiencies
