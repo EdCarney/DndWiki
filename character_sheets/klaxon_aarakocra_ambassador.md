@@ -1,3 +1,5 @@
+Klaxon
+======
 
 # Story
 
@@ -14,24 +16,13 @@
 - he is unfamiliar with human/land-based culture and is generally trusting and gullible; easily swindled
 - like many Aarakocra he is terrified of confinement (e.g. in cages or trapped underground)
 
-# Character Fundamentals
-
-## Name
-Klaxon
+# Fundamentals
 
 ## Background
-
 [Far Traveler](../concepts/backgrounds.md)
-
-- Proficiencies:
-    - Insight
-    - Perception
 
 ## Race
 [Aarakocra](../races/aarakocra.md)
-
-- +2 to DEX
-- +1 to WIS
 
 ## Class
 [Battle Master](../classes/battlemaster.md)
@@ -112,18 +103,6 @@ Klaxon
 
 # Proficiencies
 
-
-
-## Skill Proficiencies
-
-- Wisdom
-    - Insight (from Far Travler background)
-    - Perception (from Far Travler background)
-- Dexterity
-    - Acrobatics (from Fighter base class)
-- Strength
-    - Athletics (from Fighter base class)
-
 ## Equipment Proficiencies
 
 - Armor (from Fighter base class)
@@ -132,11 +111,6 @@ Klaxon
 - Weapons (from Fighter base class)
     - simple
     - martial
-
-## Saving Throws
-
-- Strength
-- Consitution
 
 # Equipment
 
@@ -157,7 +131,5 @@ Klaxon
 
 # Features
 
- - **Fighting Style**: Two-Weapon Fighting (see [Fighter](../classes/fighter.md))
- - **Second Wind**
- 
- 
+ - **Fighting Style**: Ability modifier can be added to the damage of the second attack
+ - **Second Wind**: Take a bonus action once per turn to regain HP of 1d10 + fighter level
