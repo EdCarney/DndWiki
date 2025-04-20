@@ -17,6 +17,8 @@ Klaxon
 
 # Fundamentals
 
+## Level -> 2
+
 ## Background
 [Far Traveler](../concepts/backgrounds.md)
 
@@ -96,7 +98,7 @@ Neutral Good
 
 ## Hit Points
 
-- **Current**: 11
+- **Current**: 18 (base 11 + 1d10 rolled to 6 + CON mod)
 - **Temp**: 0
 - **Max**: 11
 
@@ -159,4 +161,5 @@ Neutral Good
 # Features
 
  - **Fighting Style**: Ability modifier can be added to the damage of the second attack
- - **Second Wind**: Take a bonus action once per turn to regain HP of 1d10 + fighter level
+ - **Second Wind**: Once per short/long rest, you can take a bonus action on your turn to regain HP of 1d10 + fighter level
+ - **Action Surge**: Once per short/long rest, you can take an additional action on top of your regular and bonus actions
