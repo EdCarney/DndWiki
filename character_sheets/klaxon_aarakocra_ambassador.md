@@ -98,7 +98,7 @@ Neutral Good
 
 ## Hit Points
 
-- **Current**: 13 (base 11 + 1d10 rolled to 6 + CON mod)
+- **Current**: 18 (base 11 + 1d10 rolled to 6 + CON mod)
 - **Temp**: 0
 - **Max**: 18
 
