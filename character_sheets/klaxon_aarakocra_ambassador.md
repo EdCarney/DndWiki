@@ -100,7 +100,7 @@ Neutral Good
 
 - **Current**: 18 (base 11 + 1d10 rolled to 6 + CON mod)
 - **Temp**: 0
-- **Max**: 11
+- **Max**: 18
 
 ## Weapons
 
@@ -113,6 +113,10 @@ Neutral Good
 
 
 # Proficiencies
+
+## Armor Class
+
+- Leather Armor (11) + DEX (+3) = 14
 
 ## Equipment Proficiencies
 
