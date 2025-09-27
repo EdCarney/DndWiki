@@ -17,7 +17,7 @@ Klaxon
 
 # Fundamentals
 
-## Level -> 2
+## Level -> 3
 
 ## Background
 [Far Traveler](../concepts/backgrounds.md)
@@ -98,9 +98,11 @@ Neutral Good
 
 ## Hit Points
 
-- **Current**: 12 (base 11 + 1d10 rolled to 6 + CON mod)
+- **Current**: 25
 - **Temp**: 0
-- **Max**: 18
+- **Max**: 25
+- **Hit Die**: d10 (avg. 6)
+- **Hit Die Count**: 3 (used during short rests)
 
 ## Weapons
 
@@ -164,6 +166,51 @@ Neutral Good
 
 # Features
 
- - **Fighting Style**: Ability modifier can be added to the damage of the second attack
- - **Second Wind**: Once per short/long rest, you can take a bonus action on your turn to regain HP of 1d10 + fighter level
- - **Action Surge**: Once per short/long rest, you can take an additional action on top of your regular and bonus actions
+## Fighter
+
+### Fighting Style
+
+ Ability modifier can be added to the damage of the second attack
+
+### Second Wind
+
+Once per short/long rest, you can take a bonus action on your turn to regain HP of 1d10 + fighter level
+
+### Action Surge
+
+Once per short/long rest, you can take an additional action on top of your regular and bonus actions
+
+## Battle Master
+
+## Student of War
+
+At 3rd level, you gain proficiency with one type of artisan's tools of your choice.
+
+Choice: Smith's Tools
+
+Smith's Tools
+
+- Allow you to work metal, beating it to alter its shape, repair damage, or work raw ingots into useful items.
+- Includes: hammers, tongs, charcoal, rags, and a whetstone.
+- Your expertise lends you additional insight when examining metal objects, such as weapons.
+- You can spot clues and make deductions that others might overlook when an investigation involves armor, weapons, or other metalwork.
+- With access to your tools and an open flame hot enough to make metal pliable, you can restore 10 hit points to a damaged metal object for each hour of work.
+
+| Activity                            | DC |
+|-------------------------------------|----|
+| Sharpen a dull blade                | 10 |
+| Repair a suit of armor              | 15 |
+| Sunder a nonmagical metal object    | 15 |
+
+### Maneuvers
+
+- **Disarming Attack**: When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
+- **Menacing Attack**: When you hit a creature with a weapon attack, you can expend one superiority die to attempt to frighten the target. You add the superiority die to the attack's damage roll, and the target must make a Wisdom saving throw. On a failed save, it is frightened of you until the end of your next turn.
+- **Parry**: When another creature damages you with a melee attack, you can use your reaction and expend one superiority die to reduce the damage by the number you roll on your superiority die + your Dexterity modifier.
+
+> [!NOTE]
+> Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
+>
+> Maneuver save DC = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+
+
