@@ -29,8 +29,9 @@ for key in "${!name_map[@]}"; do
 
     # verify changes and then execute
     echo
-    read -n 1 -s -r -p "Confirm changes then press any key to continue..."
     echo "Using pattern: $sed_pattern_replace"
-    sed -ir $sed_pattern_replace $1
+    read -n 1 -s -r -p "Confirm changes then press any key to continue..."
+    sed -r $sed_pattern_replace $1 > temp_replacement
+    mv temp_replacement $1
 done
 
