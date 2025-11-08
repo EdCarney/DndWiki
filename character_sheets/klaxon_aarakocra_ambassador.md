@@ -17,7 +17,7 @@ Klaxon
 
 # Fundamentals
 
-## Level -> 3
+## Level -> 4
 
 ## Background
 [Far Traveler](../concepts/backgrounds.md)
@@ -51,7 +51,7 @@ Neutral Good
     - Athletics (P): +3
 
 ### Dexterity
-- Value: 17 (15 base + 2 from race)
+- Value: 18 (15 base + 2 from race)
 - Modifier: +3
 - Saving Throw: **true**
 - Skills:
@@ -87,7 +87,7 @@ Neutral Good
     - Survival: +2
 
 ### Wisdom
-- Value: 10
+- Value: 11
 - Modifier: +0
 - Saving Throw: **false**
 - Skills:
@@ -98,11 +98,11 @@ Neutral Good
 
 ## Hit Points
 
-- **Current**: 25
+- **Current**: 32
 - **Temp**: 0
-- **Max**: 25
+- **Max**: 32
 - **Hit Die**: d10 (avg. 6)
-- **Hit Die Count**: 3 (used during short rests)
+- **Hit Die Count**: 4 (used during short rests)
 
 ## Weapons
 
@@ -112,7 +112,6 @@ Neutral Good
 | Long Bow      | +3           | 1d8 piercing | heavy, two-handed        |
 | Handaxe (x2)  | +3           | 1d6 slashing | light, thrown (20/60)    |
 | Talons        | +1           | 1d4 slashing | replaces unarmed strikes |
-
 
 # Proficiencies
 
