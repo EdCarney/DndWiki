@@ -98,7 +98,7 @@ Neutral Good
 
 ## Hit Points
 
-- **Current**: 32
+- **Current**: 24
 - **Temp**: 0
 - **Max**: 32
 - **Hit Die**: d10 (avg. 6)
