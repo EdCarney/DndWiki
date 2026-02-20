@@ -14,6 +14,7 @@ name_map["E"]="Eryn"
 name_map["A"]="Art"
 name_map["M"]="Melody"
 name_map["K"]="Kefira"
+name_map["SC"]="SpaceCat"
 
 for key in "${!name_map[@]}"; do
     sed_pattern_base="16,\$s/([^a-zA-Z0-9])$key([^a-zA-Z0-9])/\1${name_map[$key]}\2"
