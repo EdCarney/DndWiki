@@ -33,7 +33,7 @@ Neutral Good
 
 ## Base Properties
 
-- Initiative: +3 (from DEX)
+- Initiative: +4 (from DEX)
 - Speed: 25 walking; 25 flight
 - Size: Med.
 - Passive Perception: 14
@@ -51,8 +51,8 @@ Neutral Good
     - Athletics (P): +3
 
 ### Dexterity
-- Value: 18 (15 base + 2 from race)
-- Modifier: +3
+- Value: 19 (17 base + 2 from race)
+- Modifier: +4
 - Saving Throw: **true**
 - Skills:
     - Acrobatics (P): +5
@@ -86,7 +86,7 @@ Neutral Good
     - Perception: +4
     - Survival: +2
 
-### Wisdom
+### Rizz
 - Value: 11
 - Modifier: +0
 - Saving Throw: **false**
@@ -98,22 +98,26 @@ Neutral Good
 
 ## Hit Points
 
-- **Current**: 24
+- **Current**: 46
 - **Temp**: 0
-- **Max**: 32
+- **Max**: 46
 - **Hit Die**: d10 (avg. 6)
-- **Hit Die Count**: 4 (used during short rests)
+- **Hit Die Count**: 6 (used during short rests)
 
 ## Weapons
 
 | Name          | Atk Bonus/DC | Damage       | Notes                    |
 | ------------- | ------------ | ------------ | ------------------------ |
-| Scimitar (x2) | +5           | 1d6 slashing | finesse, light           |
-| Long Bow      | +3           | 1d8 piercing | heavy, two-handed        |
-| Handaxe (x2)  | +3           | 1d6 slashing | light, thrown (20/60)    |
-| Talons        | +1           | 1d4 slashing | replaces unarmed strikes |
+| Scimitar (x2) | +7           | 1d6 slashing | finesse, light           |
+| Long Bow      | +7           | 1d8 piercing | heavy, two-handed        |
+| Handaxe (x2)  | +4           | 1d6 slashing | light, thrown (20/60)    |
+| Talons        | +4           | 1d4 slashing | replaces unarmed strikes |
 
 # Proficiencies
+
+## Proficiency Bonus
+
++3 (Level 6)
 
 ## Armor Class
 
@@ -179,6 +183,10 @@ Once per short/long rest, you can take a bonus action on your turn to regain HP 
 
 Once per short/long rest, you can take an additional action on top of your regular and bonus actions
 
+### Extra Attack (Level 5)
+
+Can attack one extra time when you chose to attack during your turn
+
 ## Battle Master
 
 ## Student of War
@@ -201,6 +209,14 @@ Smith's Tools
 | Repair a suit of armor              | 15 |
 | Sunder a nonmagical metal object    | 15 |
 
+### Superiority Dice
+
+Rolled for various maneuvers performed as part of battlemaster class.
+
+These are d8's. Start with 4 dice.
+
+All dice regained after short or long rest.
+
 ### Maneuvers
 
 - **Disarming Attack**: When you hit a creature with a weapon attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
@@ -211,5 +227,4 @@ Smith's Tools
 > Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
 >
 > Maneuver save DC = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
-
 
