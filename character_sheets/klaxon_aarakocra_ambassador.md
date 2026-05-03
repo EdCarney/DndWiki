@@ -55,8 +55,8 @@ Neutral Good
 - Modifier: +4
 - Saving Throw: **true**
 - Skills:
-    - Acrobatics (P): +5
-    - Sleight of Hand: +3
+    - Acrobatics: +3
+    - Sleight of Hand (P): +5
     - Stealth: +3
  
 ### Constitution
@@ -140,7 +140,7 @@ Neutral Good
 
 # Inventory
 
-- Armor
+- Armor/insight
     - Leather Armor
 - Weapons
     - (see above)
